@@ -104,5 +104,5 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ## ✍️ Autor
 
-PPC elaborado por [Seu Nome ou Instituição], 2025.
+PPC elaborado por Tiago Ferreira/IFSC, 2025.
 
