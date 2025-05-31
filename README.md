@@ -41,6 +41,7 @@ Criador de conteúdo que:
 - Influenciadores como formadores
 
 **Bibliografia**:
+
 KARHAWI, Issaaf. De blogueira a influenciadora: etapas de profissionalização da blogosfera de moda brasileira. Porto Alegre: Editora Sulina, 2022. (Cibercultura)
 
 SAVIANI, Dermeval. Escola e democracia. Campinas: Autores Associados, 2012.
@@ -61,6 +62,7 @@ SAVIANI, Dermeval. Trabalho e educação: fundamentos ontológicos e históricos
 - Planejamento didático para mídias sociais
 
 **Bibliografia**:
+
 GOHN, Maria da Glória. Educação não formal e o Educador Social: Atuação no Desenvolvimento de Projetos Sociais. São Paulo: Cortez, 2013.
 
 MARTINS, Lígia Márcia. O desenvolvimento do psiquismo e a educação escolar: contribuições à luz da psicologia histórico-cultural e da pedagogia histórico-crítica. Interface - Comunicação, Saúde, Educação, v. 16, p. 283–283, 2012.
@@ -81,6 +83,7 @@ SAVIANI, Dermeval. Pedagogia histórico-crítica, quadragésimo ano: novas aprox
 - Produção de vídeos educativos
 
 **Bibliografia**:
+
 CORDEIRO, Robson Vinicius; ALTOÉ, Renan Oliveira. Fatores comunicacionais para elaboração de produtos/processos educativos em Programas Profissionais de Pós-graduação na área de Ensino/Educação em Ciências e Matemática: reflexões emergentes e em movimento. Amazônia: Revista de Educação em Ciências e Matemáticas, v. 17, n. 39, p. 253–270, 2021.
 
 LIBÂNEO, José Carlos. Didática. São Paulo: Cortez Editora, 2017.
@@ -97,6 +100,7 @@ LIBÂNEO, José Carlos. Didática. São Paulo: Cortez Editora, 2017.
 - Educação como prática de liberdade
 
 **Bibliografia**:
+
 FAUSTINO, Deivison. Colonialismo digital: Por uma crítica hacker-fanoniana. São Paulo: Boitempo, 2023. (Estado de Sítio)
 
 KUENZER, Acacia Zeneida. Trabalho e escola: a aprendizagem flexibilizada. Revista do Tribunal Regional do Trabalho da 10ª Região, v. 20, n. 2, p. 13–36, 2016.
