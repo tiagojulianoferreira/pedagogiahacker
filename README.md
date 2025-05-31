@@ -42,8 +42,11 @@ Criador de conteúdo que:
 
 **Bibliografia**:
 KARHAWI, Issaaf. De blogueira a influenciadora: etapas de profissionalização da blogosfera de moda brasileira. Porto Alegre: Editora Sulina, 2022. (Cibercultura)
+
 SAVIANI, Dermeval. Escola e democracia. Campinas: Autores Associados, 2012.
+
 SAVIANI, Dermeval. Pedagogia Histórico-Crítica, construção do ser social e educação ambiental. Geografia Ensino & Pesquisa, v. 26, p. e8–e8, 2022.
+
 SAVIANI, Dermeval. Trabalho e educação: fundamentos ontológicos e históricos. Revista Brasileira de Educação, v. 12, n. 34, p. 152–165, 2007.
 
 ---
@@ -59,8 +62,11 @@ SAVIANI, Dermeval. Trabalho e educação: fundamentos ontológicos e históricos
 
 **Bibliografia**:
 GOHN, Maria da Glória. Educação não formal e o Educador Social: Atuação no Desenvolvimento de Projetos Sociais. São Paulo: Cortez, 2013.
+
 MARTINS, Lígia Márcia. O desenvolvimento do psiquismo e a educação escolar: contribuições à luz da psicologia histórico-cultural e da pedagogia histórico-crítica. Interface - Comunicação, Saúde, Educação, v. 16, p. 283–283, 2012.
+
 RAMOS, Marise Nogueira. Políticas educacionais: da pedagogia das competências à pedagogia histórico-crítica. In: __________. Teoria histórico-cultural: questões fundamentais para a educação escolar. São Paulo: Cultura Acadêmica, v. 1, p. 59–76, 2016.
+
 SAVIANI, Dermeval. Pedagogia histórico-crítica, quadragésimo ano: novas aproximações. Campinas: Autores Associados, 2019.
 
 ---
@@ -76,6 +82,7 @@ SAVIANI, Dermeval. Pedagogia histórico-crítica, quadragésimo ano: novas aprox
 
 **Bibliografia**:
 CORDEIRO, Robson Vinicius; ALTOÉ, Renan Oliveira. Fatores comunicacionais para elaboração de produtos/processos educativos em Programas Profissionais de Pós-graduação na área de Ensino/Educação em Ciências e Matemática: reflexões emergentes e em movimento. Amazônia: Revista de Educação em Ciências e Matemáticas, v. 17, n. 39, p. 253–270, 2021.
+
 LIBÂNEO, José Carlos. Didática. São Paulo: Cortez Editora, 2017.
 
 ---
@@ -91,7 +98,9 @@ LIBÂNEO, José Carlos. Didática. São Paulo: Cortez Editora, 2017.
 
 **Bibliografia**:
 FAUSTINO, Deivison. Colonialismo digital: Por uma crítica hacker-fanoniana. São Paulo: Boitempo, 2023. (Estado de Sítio)
+
 KUENZER, Acacia Zeneida. Trabalho e escola: a aprendizagem flexibilizada. Revista do Tribunal Regional do Trabalho da 10ª Região, v. 20, n. 2, p. 13–36, 2016.
+
 SETO, Kenzo Soares. Muito Além do Vale do Silício: o imaginário dos trabalhadores da tecnologia no Brasil entre o subimperialismo de plataforma e os algoritmos dos oprimidos. Rio de Janeiro, 2024.
 
 ---
