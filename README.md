@@ -6,7 +6,7 @@ Este repositório abriga o Projeto Político-Pedagógico (PPC) do curso **Inicia
 
 🧠 **Carga horária**: 20h  
 🌐 **Modalidade**: MOOC (Educação a Distância)  
-🎯 **Eixos Temáticos**: Tecnológicos, Desenvolvimento Educacional e Social, Informação e Comunicação
+🎯 **Eixos Tecnológicos** (Catálogo Nacional de Cursos): Desenvolvimento Educacional e Social, Informação e Comunicação
 
 ---
 
